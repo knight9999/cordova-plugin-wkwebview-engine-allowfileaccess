@@ -4,7 +4,7 @@
 
 This is an experimental cordova plugin to support `cordova-paramedic` with `cordova-plugin-wkwebview-engine`.
 
-This plugin support XHR with `file://` protocol by using private API `allowFileAccessFromFileURLs`.
+This plugin enables XHR with `file://` protocol by using private API `allowFileAccessFromFileURLs`.
 
 See https://github.com/apache/cordova-paramedic/issues/52.
 
