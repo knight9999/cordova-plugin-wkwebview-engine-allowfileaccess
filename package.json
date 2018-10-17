@@ -11,8 +11,8 @@
     "url": "git+https://github.com/knight9999/cordova-plugin-wkwebview-engine-allowfileaccess.git"
   },
   "keywords": [],
-  "author": "knaito",
-  "license": "MIT",
+  "author": "Apache Cordova",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/knight9999/cordova-plugin-wkwebview-engine-allowfileaccess/issues"
   },
